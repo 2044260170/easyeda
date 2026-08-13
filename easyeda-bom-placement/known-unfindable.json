@@ -1,0 +1,24 @@
+{
+  "description": "Models searched via EasyEDA /search that returned NOT_FOUND, with datasheet/vendor links",
+  "updatedAt": "2026-07-28",
+  "entries": {
+    "CRTJ14DN10L": {
+      "type": "MOSFET",
+      "package": "SOT-223",
+      "manufacturer": "CRMICRO (华润微)",
+      "description": "N-channel trench MOSFET, 100V/10A, RDS(on)=140mΩ",
+      "vendorLinks": [
+        "https://item.szlcsc.com/43942144.html"
+      ],
+      "notes": "立创商城有售，EasyEDA 库未收录"
+    },
+    "PC1601-V-B103-M10-P18": {
+      "type": "potentiometer",
+      "package": "DIP,18.6*17.3MM",
+      "manufacturer": "unknown",
+      "description": "立式5脚电位器, 10kΩ B特性",
+      "vendorLinks": [],
+      "notes": "全网未找到 datasheet，可能是定制件或已停产型号"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "description": "Common symbols: resistor, capacitor, test point for BOM placement skill",
+  "generatedAt": "2026-07-10",
+  "libraryUuid": "8106a95bfe8e43c6b1f4286c265db1d6",
+  "placement": {
+    "cols": 20,
+    "dy": 45,
+    "starts": {
+      "resistor":  { "x": 960, "y": 3250, "dx": 50 },
+      "capacitor": { "x": 100, "y": 3250, "dx": 40 },
+      "testpad":   { "x": 2030, "y": 3260, "dx": 50 },
+    "inductor":  { "x": 3100, "y": 3250, "dx": 50 }
+    }
+  },
+  "symbols": {
+    "resistor": {
+      "name_cn": "电阻",
+      "deviceUuid": "6d442e26c9f04138b8d26b34612ac2a9",
+      "symbolUuid": "9b297bf1cc7a4c2ea6a050c96a162af2",
+      "footprintUuid": "",
+      "designator": "R?",
+      "type": "resistor"
+    },
+    "capacitor": {
+      "name_cn": "电容",
+      "deviceUuid": "679485da7bd742fd9e247bd7f7ca2ec8",
+      "symbolUuid": "7b355b05f3d64e18a6e32aca24f65f4f",
+      "footprintUuid": "8547f6cd0d67454c9d87c3459aa21fa1",
+      "designator": "C?",
+      "type": "capacitor"
+    },
+    "testpad": {
+      "name_cn": "TEST_PAD",
+      "deviceUuid": "7b360cac5b3245629bb7e19b81beea22",
+      "symbolUuid": "79c5d907452c4726a5643bc7f0e3baba",
+      "footprintUuid": "",
+      "designator": "TP?",
+      "type": "test_point"
+    },
+    "inductor": {
+      "name_cn": "电感",
+      "deviceUuid": "daa8b87de5e841178df7826b095ed6fc",
+      "symbolUuid": "98487ef7327943689887633e1371e2fc",
+      "footprintUuid": "",
+      "designator": "L?",
+      "type": "inductor"
+    }
+  }
+}

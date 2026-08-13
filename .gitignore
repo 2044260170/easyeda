@@ -1,0 +1,8 @@
+# Node.js 依赖（可随时 npm install 重新安装）
+node_modules/
+
+# 调试临时脚本
+temp_*.mjs
+
+# 日志
+*.log
